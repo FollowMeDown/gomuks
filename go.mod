@@ -19,8 +19,7 @@ require (
 	github.com/stretchr/testify v1.3.0
 	go.etcd.io/bbolt v1.3.3
 	golang.org/x/image v0.0.0-20190616094056-33659d3de4f5
-	golang.org/x/net v0.0.0-20190613194153-d28f0bde5980
-	golang.org/x/sys v0.0.0-20190614160838-b47fdc937951 // indirect
+	golang.org/x/net v0.7.0
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/russross/blackfriday.v2 v2.0.1
 	gopkg.in/toast.v1 v1.0.0-20180812000517-0a84660828b2
